@@ -12,15 +12,17 @@
     color: var (--branco)
     font-family: "chakra petch",sans-serif
 
-conteudo principal}
+conteudo principal{
 display:flex;
 flex-direction;column;
 justify-content: center;
 align-items:center;
 max-width:1200px;
-width: 100%
+width: 100%;
+}
+
 margin: 0 auto;
 .ponto-principal{
     text-align:left;
     width: 100%;
-    
+}
